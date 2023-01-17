@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backend-spring-boot-react-jwt-auth-login-logout/spring-boot-fullstack-jwt-auth-login-logout.iml" filepath="$PROJECT_DIR$/backend-spring-boot-react-jwt-auth-login-logout/spring-boot-fullstack-jwt-auth-login-logout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-react-jwt-auth-login-logout.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-react-jwt-auth-login-logout.iml" />
+    </modules>
+  </component>
+</project>
